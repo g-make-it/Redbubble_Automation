@@ -37,7 +37,7 @@ def get_desc_as_single_string(path):
 image_directory_plus_file_excluding_file_type = "D:/python_projects/create_svg_based_designs/png/"
 image_directory_text = "D:/python_projects/create_svg_based_designs/text_tags/"
 image_directory_desc = "D:/python_projects/create_svg_based_designs/text_desc/"
-path_images_uploaded = "D:/python_projects/create_svg_based_designs/send_to_redbubble/"
+path_images_uploaded = "D:/python_projects/create_svg_based_designs/sent_to_redbubble/"
 '''
 creating directories
 '''
@@ -111,7 +111,7 @@ for index in range(0 ,len(list_of_files)):
         print(e, "text file for desc has not been created")
     # checking if desc files have been made for this
 
-    file = file_stripped+'.png'
+    file = file_with_ending
     flag = True
     while(flag):
 
