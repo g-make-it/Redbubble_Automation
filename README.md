@@ -6,12 +6,7 @@
 
 Details on how to use -  Check out the video below (the image is a clickable youtube link):
 
-[![Watch the video](https://img.youtube.com/vi/temp/0.jpg)](https://www.youtube.com/watch?v=temp)
+[![Watch the video](https://img.youtube.com/vi/K1WzdfGBAL4/0.jpg)](https://www.youtube.com/watch?v=K1WzdfGBAL4)
 
 ## [Subscribe](https://www.youtube.com/channel/UCsQqV_wq5yPrw5YIpvwmjvQ) to my youtube channel to find similar content.
 ## [Donations](https://www.paypal.com/donate?hosted_button_id=WAJRVR3TBB4FN).
-
-------------------------
-
-### Just a few more notes:
-
